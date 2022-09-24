@@ -1,0 +1,64 @@
+body{
+  background-image: url(sfondo.jpg);
+  background-size: cover;
+}
+
+.container{
+  width: 1000px;
+  margin: auto;
+  background-color: rgba(0, 0, 0, 0.7);
+}
+
+header{
+  text-align: center;
+  color: lime;
+}
+
+.logo{
+  width: 200px;
+}
+
+h1{
+  font-size: 25px;
+}
+
+nav{
+  text-align: center;
+  background-color: lime;
+  margin: 40px;
+  padding: 10px;
+}
+
+main{
+  margin-left: 50px;
+}
+#draw{
+  display: inline-block;
+}
+
+.Subject{
+  display: inline-block;
+  color: white;
+}
+
+.subtitle{
+  color: white;
+}
+
+.charger1{
+  width:400px;
+  height: 20px;
+  background-color: orange;
+}
+
+.charger2{
+  width:600px;
+  height: 20px;
+  background-color: lime;
+}
+
+.charger3{
+  width:200px;
+  height: 20px;
+  background-color: red;
+}
